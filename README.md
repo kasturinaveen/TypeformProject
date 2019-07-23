@@ -1,4 +1,9 @@
 # Submission Ration Prediction App
+
+## project_form.html, project_form.ipynb:
+It contains the Data Analysis, Model selection, Model Tuning, Deep Learning algorithm implementation in Pyspark present.
+
+
 ## Steps to run the app:
 1. install requirements.txt
 2. run server.py if running in pycharm
