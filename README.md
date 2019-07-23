@@ -1,4 +1,4 @@
-# Submission Ration Prediction App
+# Submission Ratio Prediction App
 
 ## project_form.html, project_form.ipynb:
 It contains the Data Analysis, Model selection, Model Tuning, Deep Learning algorithm implementation in Pyspark present.
