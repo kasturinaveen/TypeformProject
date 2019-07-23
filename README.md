@@ -16,3 +16,5 @@ It contains the Data Analysis, Model selection, Model Tuning, Deep Learning algo
    API: POST : http://localhost:5432/inference
    Data Format should match CSV format supplied for assignment
 
+## AWS Pipeline.pdf
+It contains AWS pipeline details.
