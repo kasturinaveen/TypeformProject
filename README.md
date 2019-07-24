@@ -15,6 +15,8 @@ It contains the Data Analysis, Model selection, Model Tuning, Deep Learning algo
 5. For inference pass data as a json in Post command for API
    API: POST : http://localhost:5432/inference
    Data Format should match CSV format supplied for assignment
+ 
+6. Spark Dashboard available at http://localhost:4041
 
 ## AWS Pipeline.pdf
 It contains AWS pipeline details.
